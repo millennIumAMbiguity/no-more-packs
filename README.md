@@ -1,5 +1,5 @@
 # no-more-datapacks
-Repository for all "No More X" Minecraft resourcepack datapacks
+Repository for all "No More X" Minecraft resourcepacks and datapacks
 
 # Collections
 | | | |
