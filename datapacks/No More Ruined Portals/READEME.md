@@ -1,0 +1,1 @@
+Removes ruined portal structures from the world generation.
