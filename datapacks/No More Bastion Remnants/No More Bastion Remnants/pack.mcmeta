@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 48
+    },
+    "description": "Removes bastion remnants from the world generation."
+  }
+}
