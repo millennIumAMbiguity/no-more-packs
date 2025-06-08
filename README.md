@@ -1,5 +1,7 @@
 # no-more-datapacks
-Repository for all "No More X" Minecraft resourcepacks and datapacks
+Repository for all "No More X" Minecraft resourcepacks and datapacks.
+
+All packs can be freely used in modpacks.
 
 # Collections
 | | | |
@@ -9,7 +11,7 @@ Repository for all "No More X" Minecraft resourcepacks and datapacks
 
 ## Ways to help
 
-Many of the packs are missing methadata on github. A pack shuld have the large pack icon, a description, and the pack itself.\
+Many of the packs are missing metadata on GitHub. A pack should have the large pack icon, a description, and the pack itself.\
 See [`datapacks\No More Ruined Portals`](https://github.com/millennIumAMbiguity/no-more-packs/tree/main/datapacks/No%20More%20Ruined%20Portals) for example.
 
 It have been brught to my attention that you can do multi version support. Some packs have multiple versions on modrinth that shuld be merged using this feature.
