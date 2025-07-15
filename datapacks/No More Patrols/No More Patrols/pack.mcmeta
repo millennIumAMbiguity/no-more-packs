@@ -3,8 +3,16 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 9,
-      "max_inclusive": 48
+      "max_inclusive": 71
     },
     "description": "Enforces the doPatrolSpawning as false, preventing the patrols from spawning."
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [48, 999],
+        "directory": "1.21"
+      }
+    ]
   }
 }
