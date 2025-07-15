@@ -3,8 +3,16 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 9,
-      "max_inclusive": 38
+      "max_inclusive": 71
     },
     "description": "Enforces the doTraderSpawning as false, preventing the wandering trader from spawning."
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [48, 999],
+        "directory": "1.21"
+      }
+    ]
   }
 }
